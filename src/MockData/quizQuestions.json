@@ -1,0 +1,265 @@
+{
+    "response_code": 0,
+    "results": [
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science: Computers",
+        "question": "Which one of these is not an official development name for a Ubuntu release?",
+        "correct_answer": "Mystic Mansion",
+        "options": [
+          "Trusty Tahr",
+          "Mystic Mansion",
+          "Utopic Unicorn",
+          "Wily Werewolf"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science: Computers",
+        "question": "When did the online streaming service &quot;Mixer&quot; launch?",
+        "correct_answer": "2016",
+        "options": [
+          "2013",
+          "2009",
+          "2016",
+          "2011"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science: Computers",
+        "question": "What is the name of the process that sends one qubit of information using two bits of classical information?",
+        "correct_answer": "Quantum Teleportation",
+        "options": [
+          "Super Dense Coding",
+          "Quantum Teleportation",
+          "Quantum Entanglement",
+          "Quantum Programming"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science: Computers",
+        "question": "The series of the Intel HD graphics generation succeeding that of the 5000 and 6000 series (Broadwell) is called:",
+        "correct_answer": "HD Graphics 500",
+        "options": [
+          "HD Graphics 700 ",
+          "HD Graphics 600",
+          "HD Graphics 500",
+          "HD Graphics 7000"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science: Computers",
+        "question": "The teapot often seen in many 3D modeling applications is called what?",
+        "correct_answer": "Utah Teapot",
+        "options": [
+          "Utah Teapot",
+          "Pixar Teapot",
+          "3D Teapot",
+          "Tennessee Teapot"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science: Computers",
+        "question": "On which day did the World Wide Web go online?",
+        "correct_answer": "December 20, 1990",
+        "options": [
+          "December 17, 1996",
+          "November 12, 1990",
+          "November 24, 1995",
+          "December 20, 1990"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science: Computers",
+        "question": "Which kind of algorithm is Ron Rivest not famous for creating?",
+        "correct_answer": "Secret sharing scheme",
+        "options": [
+          "Hashing algorithm",
+          "Asymmetric encryption",
+          "Stream cipher",
+          "Secret sharing scheme"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science: Computers",
+        "question": "Who invented the &quot;Spanning Tree Protocol&quot;?",
+        "correct_answer": "Radia Perlman",
+        "options": [
+          "Paul Vixie",
+          "Vint Cerf",
+          "Michael Roberts",
+          "Radia Perlman"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science: Computers",
+        "question": "The internet domain .fm is the country-code top-level domain for which Pacific Ocean island nation?",
+        "correct_answer": "Micronesia",
+        "options": [
+          "Fiji",
+          "Micronesia",
+          "Tuvalu",
+          "Marshall Islands"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science: Computers",
+        "question": "What type of sound chip does the Super Nintendo Entertainment System (SNES) have?",
+        "correct_answer": "ADPCM Sampler",
+        "options": [
+          "FM Synthesizer",
+          "ADPCM Sampler",
+          "Programmable Sound Generator (PSG)",
+          "PCM Sampler"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science: Computers",
+        "question": "What was the name given to Android 4.3?",
+        "correct_answer": "Jelly Bean",
+        "options": [
+          "Lollipop",
+          "Nutella",
+          "Jelly Bean",
+          "Froyo"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science: Computers",
+        "question": "Who is the original author of the realtime physics engine called PhysX?",
+        "correct_answer": "NovodeX",
+        "options": [
+          "Ageia",
+          "Nvidia",
+          "AMD",
+          "NovodeX"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science: Computers",
+        "question": "What vulnerability ranked #1 on the OWASP Top 10 in 2013?",
+        "correct_answer": "Injection",
+        "options": [
+          "Injection",
+          "Broken Authentication",
+          "Cross-Site Scripting",
+          "Insecure Direct Object References"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science: Computers",
+        "question": "In computing, what does MIDI stand for?",
+        "correct_answer": "Musical Instrument Digital Interface",
+        "options": [
+          "Musical Interface of Digital Instruments",
+          "Modular Interface of Digital Instruments",
+          "Musical Instrument Data Interface",
+          "Musical Instrument Digital Interface"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science: Computers",
+        "question": "Which internet company began life as an online bookstore called &#039;Cadabra&#039;?",
+        "correct_answer": "Amazon",
+        "options": [
+          "eBay",
+          "Amazon",
+          "Overstock",
+          "Shopify"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science: Computers",
+        "question": "According to the International System of Units, how many bytes are in a kilobyte of RAM?",
+        "correct_answer": "1000",
+        "options": [
+          "512",
+          "1024",
+          "1000",
+          "500"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science: Computers",
+        "question": "The computer OEM manufacturer Clevo, known for its Sager notebook line, is based in which country?",
+        "correct_answer": "Taiwan",
+        "options": [
+          "United States",
+          "Germany",
+          "China (People&#039;s Republic of)",
+          "Taiwan"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science: Computers",
+        "question": "What internet protocol was documented in RFC 1459?",
+        "correct_answer": "IRC",
+        "options": [
+          "HTTP",
+          "HTTPS",
+          "FTP",
+          "IRC"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science: Computers",
+        "question": "Which of these is the name for the failed key escrow device introduced by the National Security Agency in 1993?",
+        "correct_answer": "Clipper Chip",
+        "options": [
+          "Clipper Chip",
+          "Enigma Machine",
+          "Skipjack",
+          "Nautilus"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science: Computers",
+        "question": "What did the name of the Tor Anonymity Network orignially stand for?",
+        "correct_answer": "The Onion Router",
+        "options": [
+          "The Only Router",
+          "The Orange Router",
+          "The Ominous Router",
+          "The Onion Router"
+        ]
+      }
+    ]
+  }
